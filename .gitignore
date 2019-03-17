@@ -1,0 +1,118 @@
+# Ignore project files
+FarseerUnity/*.sln
+FarseerUnity/*.csproj
+*.userprefs
+*.user
+obj/
+
+# Ignore vs code project files
+.vscode/
+VSCode.meta
+VSCode
+.vs/
+
+# Ignore Emacs temp files
+/#*#
+.#*
+
+# JetBrains folders
+.idea
+
+# Ignore Unity temp files
+FarseerUnity/[Ll]ibrary/
+FarseerUnity/[Tt]emp/
+FarseerUnity/[Oo]bj/
+FarseerUnity/[Bb]uild/
+FarseerUnityFarseerUnity/[Bb]uilds/
+
+/project/nexgen-dragon/[Pp]rojectSettings/ProjectVersion.txt
+
+# Ignore Mac OS files
+*.DS_Store
+
+# Ignore generator temp directory
+/project/tools/code_generator/db_codes/
+/project/tools/code_generator/__pycache__/
+#/project/tools/code_generator/configs/
+/project/tools/code_generator/generated_json/
+/project/tools/code_generator/config_codes/
+project/nexgen-dragon/Assets/Plugins/Editor/JetBrains.meta
+project/nexgen-dragon/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs.meta
+
+# Ignore sdk files
+project/kg-android-sdk/build/
+project/kg-android-sdk/demo/build/
+project/kg-android-sdk/kingsgroup/sdk-core/build/
+project/kg-android-sdk/kingsgroup/wechathelper/build/
+
+project/kg-android-sdk/gradle/
+project/kg-android-sdk/.gradle/
+
+project/kg-android-sdk/local.properties
+project/kg-android-sdk/gradlew
+project/kg-android-sdk/gradlew.bat
+
+project/kg-android-sdk/release/
+project/kg-ios-sdk/release/
+
+*.apk
+*.iml
+
+# Ignore Bundle Graph Tool Temp files
+project/nexgen-dragon/Assets/Plugins/ThirdParty/AssetBundleGraphTool/UnityEngine.AssetBundleGraph/Cache/
+project/nexgen-dragon/Assets/Plugins/ThirdParty/AssetBundleGraphTool/UnityEngine.AssetBundleGraph/Cache.meta
+project/nexgen-dragon/Assets/Plugins/ThirdParty/AssetBundleGraphTool/UnityEngine.AssetBundleGraph/SettingFiles/
+project/nexgen-dragon/Assets/Plugins/ThirdParty/AssetBundleGraphTool/UnityEngine.AssetBundleGraph/SettingFiles.meta
+project/nexgen-dragon/Assets/__ArtData/Material.meta
+project/nexgen-dragon/Assets/__RawArtData.meta
+project/nexgen-dragon/Assets/__RawArtData/Texture.meta
+project/nexgen-dragon/Assets/__RawArtData/Texture/VFX.meta
+project/nexgen-dragon/Assets/__RawArtData/Texture/VFX/VFX.meta
+project/nexgen-dragon/Assets/__RawArtData/Texture/VFX/VFX.meta
+project/nexgen-dragon/Assets/Plugins/ThirdParty/AssetBundleGraphTool/UnityEngine.AssetBundleGraph/CustomCache
+CustomCache.meta
+
+#Ignore UnityEngine and UnityEditor
+#UnityEngine.dll
+#UnityEngine.dll.meta
+#UnityEngine.dll.mdb
+#UnityEngine.dll.mdb.meta
+#UnityEditor.dll
+#UnityEditor.dll.meta
+#UnityEditor.dll.mdb
+#UnityEditor.dll.mdb.meta
+
+# Ignore MemoryProfiler files
+MemoryProfiler/
+MemoryProfiler.meta
+/project/nexgen-dragon/Assets/Plugins/Editor/JetBrains
+/project/tools/code_generator/code_generator1.sln
+/project/tools/code_generator/request_remote/
+/project/tools/code_generator/request_codes/
+/project/tools/code_generator/response_remote/
+/project/tools/code_generator/response_codes/
+/project/tools/code_generator/config_json_client/
+/project/tools/code_generator/config_json_remote/
+project/nexgen-dragon/Assets/temp_ww_dev/
+project/nexgen-dragon/Assets/temp_ww_release/
+project/nexgen-dragon/Assets/__Preview*
+/project/nexgen-dragon/.idea
+
+# Ignore ArtData & UIData
+project/nexgen-dragon/Assets/__ArtData/
+project/nexgen-dragon/Assets/__ArtData.meta
+project/nexgen-dragon/Assets/__UIData/
+project/nexgen-dragon/Assets/__UIData.meta
+project/nexgen-dragon/Assets/.gitattributes
+project/nexgen-dragon/Assets/.gitignore
+project/nexgen-dragon/Assets/.git
+project/nexgen-dragon/Assets/AssetDataBasePath.txt
+project/nexgen-dragon/Assets/AssetDataBasePath.txt.meta
+project/nexgen-dragon/Assets/__Shader/
+project/nexgen-dragon/Assets/__Shader.meta
+project/nexgen-dragon/Assets/__Design/
+project/nexgen-dragon/Assets/__Design.meta
+project/nexgen-dragon/Assets/FacebookSDK/
+project/nexgen-dragon/Assets/FacebookSDK.meta
+output/
+tmp/
